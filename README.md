@@ -25,7 +25,7 @@ Results
 
 Feature importance plot (Random Forest):
 
-![Feature Importances](feature_importances.png)
+![Feature Importances](https://github.com/IShallNotKnow/Mushroom-Identification-Model/blob/main/feature_importances.png)
 
  - Random Forest achieved 100% accuracy on the test set.
  - Feature importance analysis showed odor was among the top predictors.
